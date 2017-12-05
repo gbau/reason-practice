@@ -10,5 +10,6 @@
   },
   "suffix": ".bs.js",
   "bs-dependencies": [
-  ]
+  ],
+  "refmt": 3,
 }
